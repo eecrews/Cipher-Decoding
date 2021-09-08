@@ -2,12 +2,8 @@
 // Main File:        decode.c
 // This File:        decode.c
 // Other Files:      decode.i, decode.s, decode.o, decode
-// Semester:         CS 354 Spring 2021
-// Instructor:       deppeler
 // 
 // Author:           Erin Crews
-// Email:            eecrews@wisc.edu
-// CS Login:         crews
 //
 /////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
 //                   fully acknowledge and credit all sources of help,
